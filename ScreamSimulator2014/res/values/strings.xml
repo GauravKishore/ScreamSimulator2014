@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Edward: The App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Intro">&quot;Click Edward's face to make him say his catchphrase. Keep on clicking to beat the current record.&quot;</string>
+    <string name="counter">&quot;0&quot;</string>
+    <string name="start">&quot;Start&quot;</string>
+
+</resources>
